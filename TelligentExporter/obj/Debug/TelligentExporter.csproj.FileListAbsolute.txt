@@ -1,0 +1,12 @@
+c:\users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\TelligentExporter.exe.config
+c:\users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\TelligentExporter.exe
+c:\users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\TelligentExporter.pdb
+c:\users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\obj\Debug\TelligentExporter.csprojResolveAssemblyReference.cache
+c:\users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\obj\Debug\TelligentExporter.exe
+c:\users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\obj\Debug\TelligentExporter.pdb
+C:\Users\v-ahsab\Documents\Visual Studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\HtmlAgilityPack.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\v-ahsab\Documents\Visual Studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\HtmlAgilityPack.xml
+C:\Users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\SgmlReaderDll.dll
+C:\Users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-ahsab\documents\visual studio 2013\Projects\TelligentExporter\TelligentExporter\bin\Debug\Newtonsoft.Json.xml

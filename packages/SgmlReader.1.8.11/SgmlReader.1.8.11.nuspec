@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SgmlReader</id>
+    <version>1.8.11</version>
+    <title>SgmlReader</title>
+    <authors>Chris Lovett,  Steve Bjorg</authors>
+    <owners>Chris Lovett,  Steve Bjorg</owners>
+    <licenseUrl>https://github.com/MindTouch/SGMLReader/blob/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/MindTouch/SGMLReader</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SgmlReader is a versatile C# .NET library written by Chris Lovett for parsing HTML/SGML files using the XmlReader API.</description>
+    <summary>Converts SGML to XML via XmlReader API</summary>
+    <releaseNotes />
+    <copyright>Copyright © 2002, Microsoft Corporation; Copyright © 2007-2013, MindTouch</copyright>
+    <language />
+    <tags>SGML XML</tags>
+  </metadata>
+</package>
